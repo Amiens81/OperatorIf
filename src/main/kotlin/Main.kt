@@ -65,7 +65,7 @@ fun main() {
     if(arithmeticOperation == 1){
         println("Сложение: " + (number1 +  number2))
     }else if(arithmeticOperation == 2){
-        println("Вычитание: " + (number1- number2))
+        println("Вычитание: " + (number1 - number2))
     }else if(arithmeticOperation == 3){
         println("Умножение: " + (number1 * number2))
     }else if(arithmeticOperation == 4){ if (number2 != 0.0) {
